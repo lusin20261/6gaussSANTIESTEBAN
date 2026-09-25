@@ -1,0 +1,5 @@
+1:computación 
+2:tesina
+3:algebra
+4:geometria
+5:literatura
